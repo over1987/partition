@@ -22,6 +22,7 @@ INSERT INTO partitable VALUES (7, '2020-03-03');
 INSERT INTO partitable VALUES (8, '2020-04-04');
 
 select * from partitable19
+
 select * from partitable20
 
 select * from partitable
