@@ -23,4 +23,5 @@ INSERT INTO partitable VALUES (8, '2020-04-04');
 
 select * from partitable19
 select * from partitable20
+
 select * from partitable
